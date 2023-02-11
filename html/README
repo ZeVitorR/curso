@@ -12,3 +12,10 @@ Algumas tags uteis
 <br/> usado para pular linha
 <div></div> é para fazer divisões no site, separar em blocos começando em uma nova linha
 <span></span>seleciona um pedaço do texto utilizado para colocar um estilo no pedaço do texto
+<a></a> é usado para cliar link com alguma cois por exemplo outra pagina web
+
+<tag name="valor"></tag> tag seria alguma tag ulizado, name seria qual atributo utilizado
+
+atributos
+href= "www.google.com" usado para fazer uma referencia ao clicar ir para a pagina em questão
+src= "local da img" usado para pegar por exemplo uma imagem
