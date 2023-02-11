@@ -1,4 +1,14 @@
+Algumas tags uteis
+
 <h1></h1> é usado para titulos no site
 <h2></h2> é usado para subtitulos
 <p></p>   é usado para definir paragrafos
-<div></div> é para fazer divisões no site
+<strog></strog> usado para deixar o texto com bold, em destaque
+<hr/> usado para criar uma linha de separação
+<s></s> usado para deixar o texto riscado
+<ul></ul> usado para criar listas não ordenadas
+<ol></ol> usado para criar listas ordenadas
+<li></li> usado para colocar elementos na lista
+<br/> usado para pular linha
+<div></div> é para fazer divisões no site, separar em blocos começando em uma nova linha
+<span></span>seleciona um pedaço do texto utilizado para colocar um estilo no pedaço do texto
