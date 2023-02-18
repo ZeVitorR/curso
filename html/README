@@ -13,6 +13,16 @@ Algumas tags uteis
 <div></div> é para fazer divisões no site, separar em blocos começando em uma nova linha
 <span></span>seleciona um pedaço do texto utilizado para colocar um estilo no pedaço do texto
 <a></a> é usado para cliar link com alguma cois por exemplo outra pagina web
+<table></table> é a tag para criar tabelas
+<tr></tr> é a tag para colocar linha na tabela
+<th></th> é a tag para colocar os nomes da coluna
+<td></td> é a tag para preenchimento da tabela
+<thead></thead> é um separador do cabeçalho da tabela com o corpo dela
+<tbody></tbody> é onde fica o corpo da tabela
+<caption></caption> é a tag que dá nome para a tabela
+<form></form> é a tag que demilita um formulario
+<input> é a tag que permite o usuario preencher um campo (texto, radio e submit)
+<label></label> utilizada para dar uam legenda para alguma coisa
 
 <tag name="valor"></tag> tag seria alguma tag ulizado, name seria qual atributo utilizado
 
