@@ -1,8 +1,20 @@
-Cores no css
+Propriedades do css
 
+Cores
 -pode ser pelo nome(não é sempre boa opção pois esta limita a 140 opçoes,
                     alem de que os browses podem interpreta a cor como outro tom);
 -pelo RGB 
 -pelo hexadecimais(principal)
 -pelo HSL
 -pelo HWB
+
+
+Background
+
+Propriedade do css utilizada para definir efeios do fundo do elemento
+* A principal propriedade utilizada é a background-color(cor de fundo)
+* Tambem possui background-image que vc coloca de fundo uma imagem
+
+Borders
+
+É a prorpiedade que define o estilo, largura e cores da borda de um elemento
