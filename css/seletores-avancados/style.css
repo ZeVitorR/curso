@@ -1,0 +1,19 @@
+/* *{
+    border: 1px solid;
+} */
+li a{
+    color: red;
+}
+li > a{
+    color: blue;
+}
+h1 + h4{
+    border: 4px dashed;
+}
+a[href='teste.html']{
+    color:green
+}
+
+li:nth-of-type(2){
+    color: purple;
+}

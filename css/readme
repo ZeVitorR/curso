@@ -12,8 +12,8 @@ Cores
 Background
 
 Propriedade do css utilizada para definir efeios do fundo do elemento
-* A principal propriedade utilizada é a background-color(cor de fundo)
-* Tambem possui background-image que vc coloca de fundo uma imagem
+ A principal propriedade utilizada é a background-color(cor de fundo)
+ Tambem possui background-image que vc coloca de fundo uma imagem
 
 Borders
 
@@ -21,6 +21,12 @@ Borders
 
 Seletores
 
-é a propriedade utilizada para fazer alteraçoes no elemento podendo ser
-class para alterar todos os elementos contido nessa classe
-id para alterar elemento unico com o uma chave especifica
+é a propriedade utilizada para fazer alteraçoes no elemento podendo ser:
+(seletor de classe).class para alterar todos os elementos contido nessa classe
+(seletor de id)#id para alterar elemento unico com o uma chave especifica
+(seletor geral) * seleciona todos os elementos e aplica o estilo neses
+(seletor descencendia) li a ->seleciona todos os descententes a que estejam dentro fr li
+(seletor filho) li > a ->seleciona apenas os filhos direto de li ou seja se a estiver dentro de uma div ele não sofrerá alterações 
+(seletor adjacente)h1 + h4 ->nesse seletor altera todos os h4 que veem depois de h1 que esteja foram do h1.
+(seletor de ancor)a[href='...'] nesse ira alterar todos os elemento que estejam com a referencia citada
+(seletor de todos os elementos em um posiçao)li:nth-of-type(2) altera todos os elementos li que estejam na segunda posição
