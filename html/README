@@ -23,7 +23,8 @@ Algumas tags uteis
 <form></form> é a tag que demilita um formulario
 <input> é a tag que permite o usuario preencher um campo (texto, radio e submit)
 <label></label> utilizada para dar uam legenda para alguma coisa
-
+<video></video> é a tag de video
+<audio></audia> é a tag de audio
 <tag name="valor"></tag> tag seria alguma tag ulizado, name seria qual atributo utilizado
 
 atributos
