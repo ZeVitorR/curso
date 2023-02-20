@@ -1,0 +1,8 @@
+Cores no css
+
+-pode ser pelo nome(não é sempre boa opção pois esta limita a 140 opçoes,
+                    alem de que os browses podem interpreta a cor como outro tom);
+-pelo RGB 
+-pelo hexadecimais(principal)
+-pelo HSL
+-pelo HWB
