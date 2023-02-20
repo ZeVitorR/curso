@@ -44,3 +44,8 @@ Cada pontuação e definica como:
  div#container ul li -> (0,1,0,3)
 
 OBS: se houver empate de pontuação o browser ira considerar o ultimo seletor declarado;
+
+Herança
+
+Algumas propriedade passa do elemento pai para os filhos por exemplo se estabelecer a cor da div como azul e nela possuir h1, li todos os elementos mudarão para a cor azul se não estiver nada escifincado a cor que eles sejam
+inherit é uma definição que faz herda as carateristicas colocada no elemento
