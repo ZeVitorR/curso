@@ -30,3 +30,17 @@ Seletores
 (seletor adjacente)h1 + h4 ->nesse seletor altera todos os h4 que veem depois de h1 que esteja foram do h1.
 (seletor de ancor)a[href='...'] nesse ira alterar todos os elemento que estejam com a referencia citada
 (seletor de todos os elementos em um posiçao)li:nth-of-type(2) altera todos os elementos li que estejam na segunda posição
+
+Especificidade
+
+Composta por pontuação contendo 4 nueros(0,0,0,0), sendo mias a esquerdamaior a relevancia sendo assim podemos chamar de(a,b,c,d)
+Cada pontuação e definica como:
+ Cada elemento/pseudo elemento ->       d=+1 (0,0,0,1)
+ Cada classe/pseudo classe/ atributo -> c=+1 (0,0,1,0)
+ Cada id ->     b=+1 (0,1,0,0)
+ cada inline -> a=+1 (1,0,0,0)
+
+ Exemplo
+ div#container ul li -> (0,1,0,3)
+
+OBS: se houver empate de pontuação o browser ira considerar o ultimo seletor declarado;
