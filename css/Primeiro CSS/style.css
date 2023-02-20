@@ -13,4 +13,13 @@ body{
     background-image: url('https://www.kennedyspacecenter.com/-/media/DNC/KSCVC/Event-Images/Rocket-Launches/SpaceX/Starlink-Launches/SLC-40/Rocket_Launch_SpaceX_Starlink_SLC40.ashx?h=600&w=900&la=en&hash=6D7D301EE6E3BDBF9C905ACB2B34F233AC005F5A');
     background-repeat: no-repeat;
     background-size: cover;
+} 
+
+.moon{
+    color:orange;
+}
+
+#europa-txt{
+    font-size: 10px;
+    color: blue;
 }

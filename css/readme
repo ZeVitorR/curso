@@ -18,3 +18,9 @@ Propriedade do css utilizada para definir efeios do fundo do elemento
 Borders
 
 É a prorpiedade que define o estilo, largura e cores da borda de um elemento
+
+Seletores
+
+é a propriedade utilizada para fazer alteraçoes no elemento podendo ser
+class para alterar todos os elementos contido nessa classe
+id para alterar elemento unico com o uma chave especifica
