@@ -49,3 +49,7 @@ Herança
 
 Algumas propriedade passa do elemento pai para os filhos por exemplo se estabelecer a cor da div como azul e nela possuir h1, li todos os elementos mudarão para a cor azul se não estiver nada escifincado a cor que eles sejam
 inherit é uma definição que faz herda as carateristicas colocada no elemento.
+
+Box Model
+
+O HTML trata todos os elementos(texto, imagens e etc) como uma box model, na qual a camada mais dentro da caixa é o conteudo, em seguida vem o espaçamento ao redor do conteudo, o padding. Logo apos vem o Border(a borda) que fica entre margin e o padding e porfim margin que limpa uma area fora da border(a margem é transparente)
